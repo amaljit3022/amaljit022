@@ -23,6 +23,27 @@ My Portfolio Page
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+
+## 🧪 In Development
+
+### 🛠️ GeoCam *(Under Construction)*
+A GPS camera app with KML metadata and offline geotagging support.
+
+### 📇 APHEA Connect
+Internal contact directory app for PHED Assam officers with rank-wise and division-wise search.
+
+### 💧 HydroVision
+Remote sensing + AI pipeline for water resource monitoring using NDWI and land change analysis.
+
+### 🧠 BlogSmith AI
+Markdown-based AI assistant to generate structured blog drafts with a publishing-ready format.
+
+---
+
+🛤️ These are part of a larger vision under **The Krittika Project** — follow along for updates!
+
+---
+
 ## 📝 Latest Blog Posts from Dev.to
 
 <!-- DEVTO:START -->
