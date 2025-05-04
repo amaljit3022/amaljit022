@@ -44,12 +44,11 @@ Markdown-based AI assistant to generate structured blog drafts with a publishing
 
 ---
 
-## 📝 Latest Blog Posts from Dev.to
+## 📚 Articles & Writings
 
-<!-- DEVTO:START -->
-- [KPT-0002 | BatchScript FolderCreatorTool using CSV](https://dev.to/amaljitbharali/batchscript-foldercreatortool-using-csv-3b0f)
-- [KPT-0001 | BatchScript FolderCreatorTool](https://dev.to/amaljitbharali/batchscript-foldercreatortool-4k74)
-<!-- DEVTO:END -->
+- [Dev.to Series: Batch Script Folder Creator using txt](https://dev.to/amaljitbharali/batchscript-foldercreatortool-4k74)
+- [Dev.to Series: Batch Script Folder Creator using csv](https://dev.to/amaljitbharali/batchscript-foldercreatortool-using-csv-3b0f)
+- [The Google Way – Medium Article](https://medium.com/@amaljitbharali/the-google-way-tools-that-shaped-my-journey-fcecfaf369cd)
 
 ---
 ## 📊 GitHub Stats
