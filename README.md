@@ -3,8 +3,7 @@ My Portfolio Page
 
 # 👋 Hi, I’m Amaljit Bharali
 
-🚀 Civil Engineer | 🗺️ GIS Enthusiast | 💧 Water Supply Specialist | 📱 Aspiring Android Dev  
-✨ Creator of **The Krittika Project** | 🌌 Also known as **The Rover**
+🚀 Civil Engineer | 🗺️ GIS Enthusiast | 💧 Water Supply Specialist | 📱 Aspiring Android Dev — aka The Rover
 
 - 🔭 Currently working on: `APHEA Connect`, `GeoCam`, `HydroVision`, and `H2OMCQHub`
 - 🌱 Learning: Flutter, Kotlin, Python, GIS Web Mapping, AI + Automation
@@ -66,6 +65,6 @@ Markdown-based AI assistant to generate structured blog drafts with a publishing
 Guided by her star, driven by purpose. 🌠  
 Check out my public works and innovations under [**The Krittika Project**](https://sites.google.com/view/thekrittikaproject)
 
-✍️ Written with purpose by Amaljit Bharali  
-☄️ *Krittika Guides Me | The Rover Builds | 2025*
+✍️ Amaljit Bharali — writing with purpose, building with vision  
+☄️ Krittika Guides Me | The Rover Builds | 2025
 
