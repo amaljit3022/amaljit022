@@ -56,9 +56,12 @@ Markdown-based AI assistant to generate structured blog drafts with a publishing
 - [The Google Way – Medium Article](https://medium.com/@amaljitbharali/the-google-way-tools-that-shaped-my-journey-fcecfaf369cd)
 
 ---
+
 ## 📊 GitHub Stats
+
 ![Amaljit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaljit3022&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaljit3022&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaljit3022&layout=compact&theme=radical&hide_progress=false&cache_seconds=86400)
 
 ---
 
