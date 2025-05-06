@@ -5,11 +5,11 @@ My Portfolio Page
 
 🚀 Civil Engineer | 🗺️ GIS Enthusiast | 💧 Water Supply Specialist | 📱 Aspiring Android Dev — aka The Rover
 
-- 🔭 Currently working on: `APHEA Connect`, `GeoCam`, `HydroVision`, and `H2OMCQHub`
+- 🔭 Currently working on: `APHEA Connect`, `GeoCam`, `HydroVision`, `Web Calculator App`, and `H2OMCQHub`
 - 🌱 Learning: Flutter, Kotlin, Python, GIS Web Mapping, AI + Automation
 - 🧠 Exploring: AI Tools, SCADA, IoT, GIS Dashboards, and Public Utility Innovation
 - 💬 Ask me about: GIS, Remote Sensing, EPANET, Android Apps, Public Works
-- 📫 Reach me at: [amaljit.bharali@gmail.com](mailto:amaljit.bharali@gmail.com)
+- 📫 Reach me at: [thekrittikaproject@gmail.com](mailto:thekrittikaproject@gmail.com) | 📞 +91 91012 06226
 
 ---
 
@@ -24,6 +24,12 @@ My Portfolio Page
 ---
 
 ## 🧪 In Development
+
+### 📘 H2OMCQHub *(Live Web Build Started)*
+A 25,000+ MCQ water & sanitation quiz platform with manual-wise filters, progress tracking, and certificate generation.
+
+### 🧮 Web Calculator App *(Modular Upgrade Phase)*
+A responsive browser-based calculator toolkit for engineers — includes tabs for basic calculations, date/time tools, and converters.
 
 ### 🛠️ GeoCam *(Under Construction)*
 A GPS camera app with KML metadata and offline geotagging support.
@@ -67,4 +73,3 @@ Check out my public works and innovations under [**The Krittika Project**](https
 
 ✍️ Amaljit Bharali — writing with purpose, building with vision  
 ☄️ Krittika Guides Me | The Rover Builds | 2025
-
