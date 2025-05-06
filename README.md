@@ -1,7 +1,8 @@
 # amaljit3022
-My Portfolio Page
 
-# 👋 Hi, I’m Amaljit Bharali
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&height=45&lines=Hi%2C+I'm+Amaljit+Bharali!;Civil+Engineer+%F0%9F%9B%A0%EF%B8%8F;GIS+Explorer+%F0%9F%97%BA%EF%B8%8F;Android+Dev+in+Progress+%F0%9F%93%B1;Building+Krittika+WebTools+%F0%9F%8C%90;Powered+by+Purpose+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
 🚀 Civil Engineer | 🗺️ GIS Enthusiast | 💧 Water Supply Specialist | 📱 Aspiring Android Dev — aka The Rover
 
