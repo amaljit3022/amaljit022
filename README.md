@@ -1,16 +1,16 @@
 # amaljit3022
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&height=45&lines=Hi%2C+I'm+Amaljit+Bharali!;Civil+Engineer+%F0%9F%9B%A0%EF%B8%8F;GIS+Explorer+%F0%9F%97%BA%EF%B8%8F;Android+Dev+in+Progress+%F0%9F%93%B1;Building+Krittika+WebTools+%F0%9F%8C%90;Powered+by+Purpose+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&height=45&lines=Hi%2C+I'm+Amaljit+Bharali!;Civil+Engineer+%F0%9F%9B%A0%EF%B8%8F;GIS+Explorer+%F0%9F%97%BA%EF%B8%8F;Android+Dev+in+Progress+%F0%9F%93%B1;Building+WebTools+for+Engineers+%F0%9F%92%BB;Powered+by+Purpose+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
-🚀 Civil Engineer | 🗺️ GIS Enthusiast | 💧 Water Supply Specialist | 📱 Aspiring Android Dev — aka The Rover
+🚀 Civil Engineer | 🗺️ GIS Enthusiast | 💧 Water Supply Specialist | 📱 Aspiring Android Dev
 
 - 🔭 Currently working on: `APHEA Connect`, `GeoCam`, `HydroVision`, `Web Calculator App`, and `H2OMCQHub`
 - 🌱 Learning: Flutter, Kotlin, Python, GIS Web Mapping, AI + Automation
 - 🧠 Exploring: AI Tools, SCADA, IoT, GIS Dashboards, and Public Utility Innovation
 - 💬 Ask me about: GIS, Remote Sensing, EPANET, Android Apps, Public Works
-- 📫 Reach me at: [thekrittikaproject@gmail.com](mailto:thekrittikaproject@gmail.com) | 📞 +91 91012 06226
+- 📫 Reach me at: [amaljit.bharali@gmail.com](mailto:amaljit.bharali@gmail.com)
 
 ---
 
@@ -46,7 +46,7 @@ Markdown-based AI assistant to generate structured blog drafts with a publishing
 
 ---
 
-🛤️ These are part of a larger vision under **The Krittika Project** — follow along for updates!
+🛤️ These are part of my personal learning and innovation journey — follow along for updates!
 
 ---
 
@@ -71,9 +71,9 @@ Markdown-based AI assistant to generate structured blog drafts with a publishing
 
 ---
 
-## 🧭 The Krittika Project
-Guided by her star, driven by purpose. 🌠  
-Check out my public works and innovations under [**The Krittika Project**](https://sites.google.com/view/thekrittikaproject)
+## ✍️ Signature
 
-✍️ Amaljit Bharali — writing with purpose, building with vision  
-☄️ Krittika Guides Me | The Rover Builds | 2025
+Built with dedication and curiosity —  
+**Amaljit Bharali | Engineer | Creator | Lifelong Learner**
+
+📍 Assam, India | 💼 [LinkedIn](https://www.linkedin.com/in/amaljitbharali) | ✉️ amaljit.bharali@gmail.com
